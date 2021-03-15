@@ -1,0 +1,169 @@
+Computer Vision Basics| Coursera
+
+    The course covers crucial elements that enable computer vision: digital signal processing, neuroscience and 
+    artificial intelligence. Topics include color, light and image formation; early, mid- and high-level vision; 
+    and mathematics essential for computer vision.
+
+https://bit.ly/2Jj3k6B
+Architecting with Google Compute Engine Specialization | Coursera
+
+    Launch your career in Cloud Architecture. Design, develope, and manage cloud solutions to drive business objectives.
+
+http://bit.ly/2PrdA0f
+Fundamentals of Computer Network Security Specialization | Coursera
+
+    Launch your career in Cyber Security. Master security principles and tools for securing your networks, systems, and data.
+
+http://bit.ly/2I4xIk4
+Introduction to Computer Vision with Watson and OpenCV | Coursera
+
+    In this beginner-friendly course you will understand about computer vision, and will learn about its various applications across many industries.
+
+http://bit.ly/2PqZQm7`
+
+
+
+Student id: 170041006 Question:
+
+CVP assumptions:
+
+Selling price is constant
+Costs are linear 
+
+In multiproduct companies, the sales mix is constant
+
+In manufacturing companies, inventories do not change. 
+The number of units produced equals the number of units sold.
+
+
+Inventory cost is what type of cost? 
+AAA:Product cost. All costs directly associated with the product
+
+What is a FLEXIBLE Budget? 
+AAA:  a budget that adjusts with changes in volume or activity.
+
+Does fixed and per unit cost always remain the same and if not what is the condition for it?
+AAA: Same within a relevant range.
+
+
+Student id: 170041008 Question:
+
+What is the Planning Budget?
+AAA:  prepared before the period begins and is valid for only the planned level
+
+In CVP assumptions, is sales mix constant?- yes
+
+
+What do we get after adding the opening stock with total cost of production? 
+AAA: cost of goods available for sale
+
+Is product cost added to income statement or balance sheet?
+AAA: both
+    sold -- income
+    !sold -- balance sheet
+
+
+Id: 170041018 Questions:
+
+What is the name of the difference between the flexible budget and actual results?
+AAA:Revenue and Spending Variance
+
+Can you tell me the other names of “relevant” cost?
+AAA: differential avoidable relevant incremental 
+
+Which cost is also termed as “Inventoried” cost?
+AAA: Product Cost
+
+What do we assume  about whether inventories change or remain constant?
+AAA: Change
+
+ID : 170041027
+    
+What is prime cost?
+AAA: combination of 
+    Direct materials cost
+    Direct labor cost
+    Direct Expense
+
+
+Is selling price in CVP analysis constant or variable?
+AAA:YES
+
+Example of Direct Expense.
+AAA: Machine rent
+
+170041010:
+
+What is relevant cost?
+AAA: Costs that differ between alternatives are called relevant costs.
+Different terms of relevant cost?
+AAA: differential avoidable relevant incremental 
+
+170041023:
+What are the costs that are irrelevant to decision making? 
+AAA:sunk cost
+
+Example of irrelevant future cost with scenario.
+AAA: pizza khabi after watching movie. 
+    ekhon movie-ta DVD diye dekhos or theatre-e giye dekhos doesn't matter. 
+    pizza-ta khabiy. so that's irrelevant and future cost.
+
+Which variance is used to compare flexible budget and actual results?
+AAA: Revenue and Spending Variance
+
+
+
+170041069:
+1- what is flexible budget
+2-formula of break even point
+3-what is relevant cost
+4 what is prime cost
+
+
+
+
+ID : 170041067 & 170041072 
+What is a flexible budget ?
+What is the difference between a flexible budget and a planning budget?
+What is prime cost ?
+Activity variance $ Revenue and spending variance ?
+Another name for inventory cost ?
+Suppose that in your planning budget you have wages of $6200 and in your flexible budget you have wages of $6100 is your variance favorable or unfavorable? And why is it so?
+
+ID: 66 
+1.what is prime cost.
+2.what is a flexible budget.
+3.what is the difference between flexible budget and planning budget?
+4.what is the relevant cost.
+
+Id: 170041030
+Questions:
+1.Inventory cost is what type of cost?
+-Product Cost
+2.What is the name of the difference between the flexible budget and actual results?
+-Revenue and Spending Variance  
+3.Assumptions for management accounting
+4.Which cost has no impact on production?
+-Avoidable cost , Sunk cost
+5.What is Break Even Point($)?
+- Fixed cost/ CM ratio
+
+
+ID : 170041065
+Another name for inventory cost ?
+Names used interchangeably for relevant cost?
+Degree of operating leverage formula
+Under which assumptions we say our inventory was constant in CVP analysis?
+Don't remember the last one.
+
+
+ID:170041045
+Target Profit formula
+Is inventory constant?
+Relevant cost other terms.
+When is a cost considered sunk cost?
+Cost of  production + opening stock=?
+
+Are your balls স্লিপ নম্বরঃ
+
+170041020 - 
